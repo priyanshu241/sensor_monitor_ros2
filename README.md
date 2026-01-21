@@ -38,17 +38,19 @@ The project is built using ROS 2 Humble and uses the `rclpy` client library.
 
 ##  Project Structure
 
+```
 sensor_monitor/
 ├── sensor_monitor/
-│ ├── __init__.py
-│ ├── publisher.py
-│ └── subscriber.py
+│   ├── __init__.py
+│   ├── publisher.py
+│   └── subscriber.py
 ├── launch/
-│ └── sensor_launch.py
+│   └── sensor_launch.py
 ├── package.xml
 ├── setup.py
 ├── setup.cfg
 └── README.md
+```
 
 ---
 
