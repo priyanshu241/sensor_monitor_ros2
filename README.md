@@ -90,7 +90,7 @@ ros2 launch sensor_monitor sensor_launch.py
 ---
 
 
-## Author
+# Author
 
 Priyanshu Aryan
 priyanshuaryan2411@gmail.com
